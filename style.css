@@ -15,12 +15,14 @@
     flex-direction: column;
     width: 100%;
 }
-    
- }
- @media screen and (max-width:576px) {
 .mobile-device img{
     
     width: 100%;
-}
     
- }
+}
+.optional{
+    flex-direction: column;
+
+}
+
+}
